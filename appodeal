@@ -1,15 +1,15 @@
 {
   "ads": {
-    "adNetwork": "appodeal",
+    "adNetwork": "applovin",
     "applovinopen":"9f9e60545e946f33",
     "yandex_banner": "demo-banner-yandex",
     "yandex_native": "demo-native-app-yandex",
-    "applovin_banner": "ff12bd8a55ff06bf",
-    "applovin_native": "3ad3bbd1e3c1e075",
+    "applovin_banner": "ed7e2c808472d2bb",
+    "applovin_native": "0afc3d478643ab50",
     "yandex_rewarded": "demo-rewarded-yandex",
-    "applovin_rewarded": "7ac3f6ee667a6264",
+    "applovin_rewarded": "40fc931494c08af0",
     "yandex_interstitial": "demo-interstitial-yandex",
-    "applovin_interstitial": "98f6a586ed642919"
+    "applovin_interstitial": "a96846dec1cd579b"
   },
   "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Prague_10.svg/800px-Flag_of_Prague_10.svg.png",
   "language": "Russian",
